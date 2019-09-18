@@ -1,0 +1,8 @@
+2019-09-18 12:04:03,145 WARN [dump-ignore] ignore to save cache file. groupKey=nacos.yml+DEFAULT_GROUP, md5=670f0094b592059383e7e3eafc0af748, lastModifiedOld=1568779432149, lastModifiedNew=1568779443103
+
+2019-09-18 13:44:34,711 WARN [dump-ignore] ignore to save cache file. groupKey=nacos-config+DEFAULT_GROUP, md5=eed42ba2f3a72f1f847172cd274ba1fd, lastModifiedOld=1568784822551, lastModifiedNew=1568785474678
+
+2019-09-18 13:44:49,077 WARN [dump-ignore] ignore to save cache file. groupKey=nacos-config+DEFAULT_GROUP, md5=eed42ba2f3a72f1f847172cd274ba1fd, lastModifiedOld=1568784822551, lastModifiedNew=1568785489019
+
+2019-09-18 14:11:57,506 WARN [dump-ignore] ignore to save cache file. groupKey=nacos-config.yml+DEFAULT_GROUP, md5=d79bd53f04e2cad58260f050f737c649, lastModifiedOld=1568786846735, lastModifiedNew=1568787117448
+
