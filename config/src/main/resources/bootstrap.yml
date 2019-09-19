@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: nacos-config
+
+  cloud:
+    nacos:
+      config:
+        server-addr: 192.168.1.133:8848
+        shared-dataids: nacos.yml,nacos-config.yml
+        refreshable-dataids: nacos.yml,nacos-config.yml
+        file-extension: yml
+      discovery:
+        server-addr: 192.168.1.133:8848
+
+    sentinel:
+      transport:
+        dashboard: localhost:8718
+      eager: false
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
