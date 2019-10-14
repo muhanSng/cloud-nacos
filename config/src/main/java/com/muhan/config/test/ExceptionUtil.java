@@ -1,4 +1,4 @@
-package com.muhan.nacos.test;
+package com.muhan.config.test;
 
 public class ExceptionUtil {
     public void handleException(){
